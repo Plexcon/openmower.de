@@ -23,7 +23,7 @@ If you want to retrieve the file you can use an SFTP client like WinSCP or Cyber
 sudo cp /root/ros_home/.ros/map.bag /root/ros_home/.ros/map.bag.backup
 ```
 
-To delete the 
+To delete the map run the following commands
 
 ```bash
 # stop the openmower service so that it doesnt access the map anymore
